@@ -1,0 +1,32 @@
+a.my-button{
+    background-color: #bf67be;
+    color: #fff;
+    font-family: Trebuchet MS;
+    font-size: 19px;
+    font-weight: 800;
+    margin-top: 15px;
+    font-style: italic;
+    text-decoration: none;
+    padding: 14px 15px;
+    border: 0px solid #000;
+    border-radius: 10px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+   }
+   a.my-button span{
+    margin-right: 15px;
+    display: block;
+    width: 25px;
+    height: 25px;
+    background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iNzAwcHQiIGhlaWdodD0iNzAwcHQiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDcwMCA3MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiA8cGF0aCBkPSJtMzUwIDIzLjMzMmMtNjguMDcgMC0xMzMuMzYgMjcuMDQzLTE4MS40OSA3NS4xNzYtNDguMTMzIDQ4LjEzNy03NS4xNzYgMTEzLjQyLTc1LjE3NiAxODEuNDlzMjcuMDQzIDEzMy4zNiA3NS4xNzYgMTgxLjQ5YzQ4LjEzNyA0OC4xMzMgMTEzLjQyIDc1LjE3NiAxODEuNDkgNzUuMTc2czEzMy4zNi0yNy4wNDMgMTgxLjQ5LTc1LjE3NmM0OC4xMzMtNDguMTM3IDc1LjE3Ni0xMTMuNDIgNzUuMTc2LTE4MS40OXMtMjcuMDQzLTEzMy4zNi03NS4xNzYtMTgxLjQ5Yy00OC4xMzctNDguMTMzLTExMy40Mi03NS4xNzYtMTgxLjQ5LTc1LjE3NnptNzAgMjMzLjMzdjAuMDAzOTA3YzYuMTg3NSAwIDEyLjEyNSAyLjQ1NyAxNi41IDYuODMyczYuODMyIDEwLjMxMiA2LjgzMiAxNi41djkzLjMzMmMwIDYuMTkxNC0yLjQ1NyAxMi4xMjUtNi44MzIgMTYuNXMtMTAuMzEyIDYuODM1OS0xNi41IDYuODM1OWgtNDYuNjY4djIzLjMzMmMwIDguMzM1OS00LjQ0NTMgMTYuMDM5LTExLjY2NCAyMC4yMDdzLTE2LjExNyA0LjE2OC0yMy4zMzYgMC0xMS42NjQtMTEuODcxLTExLjY2NC0yMC4yMDd2LTIzLjMzMmgtNDYuNjY4Yy04LjMzNTkgMC0xNi4wMzktNC40NDkyLTIwLjIwNy0xMS42NjhzLTQuMTY4LTE2LjExMyAwLTIzLjMzMiAxMS44NzEtMTEuNjY4IDIwLjIwNy0xMS42NjhoMTE2LjY3di00Ni42NjhoLTExNi42N2MtNi4xODc1IDAtMTIuMTI1LTIuNDU3LTE2LjUtNi44MzJzLTYuODMyLTEwLjMxMi02LjgzMi0xNi41di05My4zMzJjMC02LjE5MTQgMi40NTctMTIuMTI1IDYuODMyLTE2LjVzMTAuMzEyLTYuODM1OSAxNi41LTYuODM1OWg0Ni42Njh2LTIzLjMzMmMwLTguMzM1OSA0LjQ0NTMtMTYuMDM5IDExLjY2NC0yMC4yMDdzMTYuMTE3LTQuMTY4IDIzLjMzNiAwIDExLjY2NCAxMS44NzEgMTEuNjY0IDIwLjIwN3YyMy4zMzJoNDYuNjY4YzguMzM1OSAwIDE2LjAzOSA0LjQ0OTIgMjAuMjA3IDExLjY2OHM0LjE2OCAxNi4xMTMgMCAyMy4zMzItMTEuODcxIDExLjY2OC0yMC4yMDcgMTEuNjY4aC0xMTYuNjd2NDYuNjY4eiIvPgo8L3N2Zz4K);
+    background-repeat: no-repeat;
+    background-size: contain;
+    transform: rotate(0deg);
+   }
+   a.my-button:hover{
+    background-color: #933ba9;
+   }
+   a.my-button:active{
+    transform: scale(0.95);
+   }
